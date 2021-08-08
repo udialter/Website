@@ -29,7 +29,7 @@ education:
   - course: PhD, Quantitative Methods
     institution: York University
     year: exp. 2025
-  - course: MA, Psychology (focus on quantitative methods)
+  - course: MA, Psychology (focus on quantitative psychology)
     institution: Ryreson University
     year: 2021
   - course: BSc, Specialized Honours, Psychology and Neuroscience 

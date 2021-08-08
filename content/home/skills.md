@@ -24,18 +24,22 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+  - description:
+  icon: python
+  icon_pack: fab
+  name: Python
 - description:
   icon: file-excel
   icon_pack: fas
   name: X-Files nerd
-- description:
-  icon: coffee
-  icon_pack: fas
-  name: Coffee lover
-- description:
-  icon: python
-  icon_pack: fab
-  name: Python
+#- description:
+ # icon: coffee
+  #icon_pack: fas
+  #name: Coffee lover
+#- description:
+ # icon: snowboarding 
+  #icon_pack: fab
+  #name: Snowboarding
 
 
 # Uncomment to use emoji icons.
