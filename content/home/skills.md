@@ -34,7 +34,7 @@ feature:
   name: Coffee lover
 - description:
   icon: python
-  icon_pack: ai
+  icon_pack: fab
   name: Python
 
 
