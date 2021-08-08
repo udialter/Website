@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Coffee lover
 - description:
-  icon: "skate"
+  icon: "stat"
   icon_pack: "custom"
   name: Skateboarding
 
