@@ -14,21 +14,22 @@ organizations:
   url: https://www.yorku.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics
+- R/Studio
+- Monte Carlo Simulations
+- Teaching
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Quantitative Methods
+  - course: PhD, Quantitative Methods
     institution: York University
     year: exp. 2025
-  - course: MA in Psychology (focus on quantitative methods)
+  - course: MA, Psychology (focus on quantitative methods)
     institution: Ryreson University
     year: 2021
   - course: BSc, Specialized Honours, Psychology and Neuroscience 
@@ -45,29 +46,51 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/UdiAlter
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.de/citations?hl=en&user=3gal_2EAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/udialter
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/udalt/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/altercaker/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/hhggnshshshejdjdi
+- icon: osf
+  icon_pack: ai
+  link: osf.io/dwn4f
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3133-839X
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Udi-Alter
+- icon: psyarxiv
+  icon_pack: ai
+  link: https://psyarxiv.com/discover?q=Udi%20Alter
+- icon: cv
+  icon_pack: ai
+  link: static/uploads/resume.pdf
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ #- icon: instagram
+  # icon_pack: fab
+  # link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
