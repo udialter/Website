@@ -28,6 +28,15 @@ feature:
   icon: file-excel
   icon_pack: fas
   name: X-Files nerd
+- description:
+  icon: coffee
+  icon_pack: fas
+  name: Coffee lover
+- description:
+  icon: "skate"
+  icon_pack: "custom"
+  name: Skateboarding
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
