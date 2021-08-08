@@ -64,7 +64,7 @@ social:
   link: https://www.facebook.com/hhggnshshshejdjdi
 - icon: osf
   icon_pack: ai
-  link: osf.io/dwn4f
+  link: https://osf.io/dwn4f/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3133-839X
@@ -76,7 +76,7 @@ social:
   link: https://psyarxiv.com/discover?q=Udi%20Alter
 - icon: cv
   icon_pack: ai
-  link: static/uploads/resume.pdf
+  link: uploads/resume.pdf
 
 
 # Link to a PDF of your resume/CV.
@@ -93,8 +93,4 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm is a PhD student at York University’s [Quantitative Methods](https://qm.info.yorku.ca/) in the Psychology Department. I am interested in equivalence testing, accuracy in parameter estimation, effect sizes, and Monte Carlo simulations. In addition, I'm very passionate about teaching statistics, data science, programming, and philosophy of science. I strongly advocate for open-science practices, replicable and reproducible research, and I am an avid R user.
