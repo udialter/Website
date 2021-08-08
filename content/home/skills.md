@@ -19,7 +19,7 @@ feature:
 - description:
   icon: r-project
   icon_pack: fab
-  name: R
+  name: R/Studio
 - description:
   icon: chart-line
   icon_pack: fas
@@ -33,9 +33,9 @@ feature:
   icon_pack: fas
   name: Coffee lover
 - description:
-  icon: "stat"
-  icon_pack: "custom"
-  name: Skateboarding
+  icon: python
+  icon_pack: ai
+  name: Python
 
 
 # Uncomment to use emoji icons.
