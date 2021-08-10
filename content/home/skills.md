@@ -20,10 +20,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R/Studio
-- description:
-  icon: chart-line
-  icon_pack: fab
-  name: Statistics
+#- description:
+ # icon: chart-line
+  #icon_pack: fab
+  #name: Statistics
   - description:
   icon: python
   icon_pack: fab
