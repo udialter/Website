@@ -21,6 +21,10 @@ feature:
   icon_pack: fab
   name: R/Studio
 - description:
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description:
   icon: python
   icon_pack: fab
   name: Python
