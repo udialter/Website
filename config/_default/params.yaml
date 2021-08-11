@@ -19,7 +19,19 @@ description: 'Udi Alter'
 twitter: 'UdiAlter'
 
 # Contact (edit or remove options as required)
-email: 'udi.alter@gmail.com'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: follow me on Twitter
+    link: 'https://twitter.com/UdiAlter'
+  - icon: linkedin
+    icon_pack: fab
+    name: connect with me on LinkedIn
+    link: https://www.linkedin.com/in/udalt/
+
+# appointment_url: 'https://calendly.com'
+
+email: 
 phone: 
 address: 
   street: '072F Behavioural Science Building (BSB), York University'
@@ -29,18 +41,9 @@ address:
   country: 'Canada'
   country_code: 'CA'
 
-coordinates:
-  latitude: '43.77355637219354'
-  longitude: '-79.50371575593961'
-
-
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: follow me on Twitter
-    link: 'https://twitter.com/UdiAlter'
- 
+#coordinates:
+ # latitude: '43.77355637219354'
+  #longitude: '-79.50371575593961'
 
 # Site header
 
@@ -129,7 +132,7 @@ search:
     show_logo: true
 map:
   provider: 1
-  engine: 1
+  engine: 2
   api_key: ''
   zoom: 15
 marketing:
