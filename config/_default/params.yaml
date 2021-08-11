@@ -15,32 +15,29 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Udi Alter'
+twitter: 'UdiAlter'
 
 # Contact (edit or remove options as required)
-
-email: udi.alter@gmail.com
+email: 'udi.alter@gmail.com'
 phone: 
 address:
-  street: 072 Behavioural Science Building, York University 4700 Keele Street
-  city: Toronto
-  region: Ontario
+  street: '4700 Keele Street'
+  city: 'Toronto'
+  region: 'Ontario'
   postcode: 'M3J1P3'
-  country: Canada
-  country_code: CAN
-coordinates:
-  latitude: '43.773537'
-  longitude: '-79.503725'
-directions: 
-office_hours:
-  - 'by appointment'
+  country: 'Canada'
+  country_code: 'CA'
+  coordinates:
+    latitude: '43.773537'
+    longitude: '-79.503725'
+
 
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: follow me on Twitter
     link: 'https://twitter.com/UdiAlter'
  
 
@@ -68,7 +65,7 @@ highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -130,15 +127,16 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
-  zoom: 18
+  provider: '1'
+  engine: 2
+  api_key: 
+  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
-  baidu_tongji: ''
+  baidu_tongji: pk.eyJ1IjoidWRpYWx0ZXIiLCJhIjoiY2tzODNyZDY0MDBoODJvbDRka3g2c3I0biJ9._3dCoWufebHIk0TWZW3x-w
 cms:
   branch: master
   local_backend: false
