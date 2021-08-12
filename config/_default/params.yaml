@@ -41,9 +41,9 @@ address:
   country: 'Canada'
   country_code: 'CA'
 
-#coordinates:
- # latitude: '43.77355637219354'
-  #longitude: '-79.50371575593961'
+coordinates:
+  latitude: '43.77355637219354'
+  longitude: '-79.50371575593961'
 
 # Site header
 
@@ -131,10 +131,9 @@ search:
     index_name: ''
     show_logo: true
 map:
-  provider: 1
-  engine: 2
+  provider: 'google'
   api_key: ''
-  zoom: 15
+  zoom: 18
 marketing:
   google_analytics: ''
   google_tag_manager: ''
