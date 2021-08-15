@@ -6,7 +6,7 @@ title: Udi Alter
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Quantitative Methods in Psychology 1
+role: PhD Student in Quantitative Methodology
 
 # Organizations/Affiliations to show in About widget
 organizations:
