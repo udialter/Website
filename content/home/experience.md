@@ -46,7 +46,7 @@ experience:
     date_end: ''
 
   - title: Research Associate
-    company: Research Methods and Statistics (RMaS) Laboratory, Ryerson University
+    company: Research Methods and Statistics (RMaS) Lab, Ryerson University
     company_url: 'https://www.psystat.org/'
     company_logo: org-ru
     location: Toronto, ON
@@ -54,7 +54,7 @@ experience:
     date_end: ''
  
   - title: Joint Lab Manager
-    company: Cognitive Neuroscience & Neurointervention (C.N.N.) Laboratory and Cognition & Aging Neuroscience (C.A.N.) Laboratory, York University
+    company: Cognitive Neuroscience & Neurointervention (CNN) Lab and Cognition & Aging Neuroscience (CAN) Lab, York University
     company_url: 'https://www.yorku.ca/grturner/cann-home.html'
     company_logo: 
     location: Toronto, ON
@@ -62,7 +62,7 @@ experience:
     date_end: '2018-02-01'
 
   - title: Research Assistant
-    company: Cognition & Aging Neuroscience (C.A.N.) Laboratory, York University
+    company: Cognitive Neuroscience & Neurointervention (CNN) Lab, York University
     company_url: 'https://www.yorku.ca/grturner/index.html'
     company_logo: 
     location: Toronto, ON

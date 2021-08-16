@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Recent Preprints
 subtitle: ''
 
 content:
@@ -25,10 +25,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'hi'
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: 'hi'
+    author: 'admin'
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -39,6 +39,3 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
