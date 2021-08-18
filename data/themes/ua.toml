@@ -5,10 +5,10 @@ name = "Strawberry"
 light = true
 
 # Primary
-primary = "#F7331D"
+primary = "#5DADE2"
 
 # Menu
-menu_primary = "#F7331D"
+menu_primary = "#5DADE2"
 menu_text = "#E5E7E9"
 menu_text_active = "#FDFEFE"
 menu_title = "#fff"
