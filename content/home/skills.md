@@ -17,17 +17,21 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
+  icon: chart-bar
+  icon_pack: fas
+  name: Statistics
+- description:
   icon: r-project
   icon_pack: fab
   name: R/Studio
 - description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description:
   icon: python
   icon_pack: fab
   name: Python
+- description:
+  icon: stripe-s
+  icon_pack: fab
+  name: SPSS
 - description:
   icon: file-excel
   icon_pack: fas
