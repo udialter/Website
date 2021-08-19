@@ -42,7 +42,7 @@ experience:
     company_url: 'https://www.camh.ca/en/your-care/programs-and-services/borderline-personality-disorder-clinic'
     company_logo: org-camh
     location: Toronto, ON
-    date_start: '2021-09-01'
+    date_start: '2020-09-01'
     date_end: ''
 
   - title: Research Associate
