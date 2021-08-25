@@ -30,7 +30,7 @@ education:
     institution: York University
     year: in progress
   - course: MA, Psychology (focus on quantitative psychology)
-    institution: Ryreson University
+    institution: Ryerson University
     year: 2021
   - course: BSc, Specialized Honours, Psychology and Neuroscience 
     institution: York University

@@ -25,9 +25,9 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'hi'
+    tag: ''
     category: ''
-    publication_type: 'hi'
+    publication_type: ''
     author: 'admin'
     exclude_featured: true
 design:
