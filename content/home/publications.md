@@ -16,9 +16,9 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: talk
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -29,14 +29,14 @@ content:
     category: ''
     publication_type: ''
     author: 'admin'
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
 * <b>Alter, U.</b>, & Counsell, A. (2021). *Equivalence Testing for Multiple Regression*. PsyArXiv. https://doi.org/10.17605/osf.io/w96xe </p> &nbsp;
 

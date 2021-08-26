@@ -1,55 +1,56 @@
 ---
-title: Example Talk
+title: 'Understanding and Incorporating Data Simulation into the Research Pipeline: A Practical Guide for the Novice Simulator'
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Professional Workshop
+event_url: https://www.eventbrite.ca/x/so-you-want-to-be-a-simdesigner-tickets-137830162727
 
-location: Wowchemy HQ
+location: Remote
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: Canada
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: This workshop introduces researchers to data simulation methods in psychological research.
+abstract: This workshop introduces researchers to data simulation methods in psychological research. Methodologists frequently rely on simulation experiments to create tools and make recommendations for research practices aimed at improving psychological science. Yet, empirical researchers often have little experience in, or knowledge of, data simulation techniques, which create barriers to critically assessing simulation results and effectively using simulation-based tools. We seek to lower these barriers in this workshop. The first half of the workshop will introduce the concept of Monte Carlo simulations, why and when they should be used, and how to interpret results from simulation studies. Attendees will be acquainted with pwrSEM, an open-source simulation-based application for power estimation, and learn how it can be flexibly adapted for their individual research programs. The second half will guide attendees through simulating data for various research purposes using the SimDesign package in R. This section will provide hands-on experience with constructing and interpreting a completely customized simulation study. The proposed workshop offers theoretical background, practical tools, and applied experience with simulation methods to improve attendees’ literacy and skills in quantitative methodology for psychological research.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-06-23T00:00:00Z"
+date_end: "2021-06-23T00:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-06-23T00:00:00Z"
 
-authors: []
+authors: [Mark C. Adkins, admin, Nataly Beribisky, R. Philip Chalmers, Andre Y. Wang]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/gTs2w7bu3Qo)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: trending on twitter
+  url: https://twitter.com/improvingpsych/status/1400442101016326145
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: 'https://osf.io/7prhn/'
+url_video: 'https://osf.io/qnwm4/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,12 +58,9 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- 
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
 Slides can be added in a few ways:
 
