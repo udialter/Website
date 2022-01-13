@@ -59,6 +59,9 @@ social:
 - icon: tree
   icon_pack: fas
   link: https://linktr.ee/udialter
+- icon: r-project
+  icon_pack: fab
+  link: https://rcodingclub.wixsite.com/home
 - icon: osf
   icon_pack: ai
   link: https://osf.io/dwn4f/
