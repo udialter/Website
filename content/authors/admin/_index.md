@@ -56,12 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/udalt/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/altercaker/
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/hhggnshshshejdjdi
+- icon: tree
+  icon_pack: fas
+  link: https://linktr.ee/udialter
 - icon: osf
   icon_pack: ai
   link: https://osf.io/dwn4f/
