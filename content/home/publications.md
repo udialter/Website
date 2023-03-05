@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -36,11 +36,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 4
 ---
-* <b>Alter, U.</b>, & Counsell, A. (2021). *Equivalence Testing for Multiple Regression*. PsyArXiv. https://doi.org/10.17605/osf.io/w96xe </p> &nbsp;
 
-* Farmus, L., Beribisky, N., Martinez Gutierrez, N., <b>Alter, U.</b>, Panzarella, E., & Cribbie, R. A. (2020). *Effect Size Reporting and Interpretation in Social Personality Research*. PsyArXiv. https://doi.org/10.31234/osf.io/nvczj </p> &nbsp;
-
-* Beribisky, N., <b>Alter, U.</b>, & Cribbie, R. A. (2019). *A multi-faceted mess: A review of statistical power analysis in psychology journal articles*. PsyArXiv. https://doi.org/10.31234/osf.io/3bdfu
 
