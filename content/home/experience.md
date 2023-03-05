@@ -46,7 +46,7 @@ experience:
     date_end: ''
 
   - title: Research Associate
-    company: Research Methods and Statistics (RMaS) Lab, Ryerson University
+    company: Psychology and Statistics Education Research (PASER) Lab, Toronto Metropolitan University
     company_url: 'https://www.psystat.org/'
     company_logo: org-ru
     location: Toronto, ON
