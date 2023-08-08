@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/UdiAlter
+- icon: skyatlas
+  icon_pack: fab
+  link: https://bsky.app/profile/udialter.com
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.de/citations?hl=en&user=3gal_2EAAAAJ
