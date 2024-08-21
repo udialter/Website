@@ -96,4 +96,4 @@ email: ""
 highlight_name: true
 ---
 
-I'm a PhD student at York University’s [Quantitative Methods program](https://qm.info.yorku.ca/) in the Psychology Department. I am interested in equivalence testing, accuracy in parameter estimation, effect sizes, and Monte Carlo simulations. In addition, I'm very passionate about teaching statistics, data science, programming, and philosophy of science. I strongly advocate for open-science practices, replicable and reproducible research, and I am an avid R user.
+I am a PhD student in the [Quantitative Methods program](https://qm.info.yorku.ca/) at York University's Psychology Department. My research interests include equivalence testing, Bayesian statistics, multilevel modeling, item response theory, and multiplicity control. I also explore the attitudes and practices surrounding open science, software, and statistics. I'm passionate about teaching statistics and a big R fan. As an advocate for open science, I strive to promote research that's replicable and reproducible.
