@@ -37,8 +37,11 @@ feature:
   icon: file-excel
   icon_pack: fas
   name: X-Files nerd
-  
-
+- description:
+  icon: skull-crossbones
+  icon_pack: fas
+  name: Punk Rock
+  description: "100%"  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
